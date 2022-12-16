@@ -39,7 +39,7 @@ main {
 
 .robo {
     height: 110%;
-    z-index: 1;
+    z-index: -1;
     position: absolute;
     left: -20%;
     top: -5%;
